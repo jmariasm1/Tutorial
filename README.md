@@ -1,2 +1,2 @@
 # Tutorial
-Aprendiendo a manejar Git
+Aprendiendo a manejar Git...
